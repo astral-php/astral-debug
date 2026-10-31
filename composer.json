@@ -1,8 +1,8 @@
 {
     "name": "astral-php/astral-debug",
-    "description": "Barre de debug Astral — temps, mémoire, SQL, messages (dev uniquement)",
+    "description": "Barre de debug Astral \u2014 temps, m\u00e9moire, SQL, messages (dev uniquement)",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "MIT",
     "keywords": [
         "astral",
@@ -19,8 +19,8 @@
     ],
     "homepage": "https://github.com/astral-php/astral-debug",
     "require": {
-        "php": "^8.1",
-        "astral-php/astral-core": "^1.2"
+        "php": "^8.3",
+        "astral-php/astral-core": "^2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0 || ^11.0"
